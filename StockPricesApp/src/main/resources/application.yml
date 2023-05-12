@@ -1,0 +1,13 @@
+server:
+  port: 6060
+spring:
+   datasource:
+      url: jdbc:mysql://stockpricesappdb.cxp2rqrarauv.ap-south-1.rds.amazonaws.com:3306/stockpricesappdb
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: root1234
+   jpa:
+      hibernate.ddl-auto: update
+      properties:
+         hibernate:
+            dialect: org.hibernate.dialect.MySQL8Dialect
