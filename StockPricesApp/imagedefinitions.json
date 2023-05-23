@@ -1,6 +1,6 @@
 [
     {
-        "name":"stockpress",
+        "name":"myapp",
         "imageUri":"karthikgatla/myapp:latest"
     }
 ]
