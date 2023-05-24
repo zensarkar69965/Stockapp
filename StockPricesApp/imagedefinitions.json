@@ -1,6 +1,6 @@
 [
     {
-        "name":"myapp",
-        "imageUri":"karthikgatla/myapp:latest"
+        "name": "myapp",
+        "imageUri": "karthikgatla/myapp:latest"
     }
 ]
