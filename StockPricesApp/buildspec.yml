@@ -17,5 +17,5 @@ phases:
   post_build:
     commands:
       - echo Pushing the Docker image to Docker Hub...
-      - docker login -u karthikgatla -p Karthik@412300
+      
       - docker push karthikgatla/myapp:latest
